@@ -1,0 +1,8 @@
+{
+  "name": "linkedin-lead-scraper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

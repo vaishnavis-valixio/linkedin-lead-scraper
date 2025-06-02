@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-lead-scraper",
+  "version": "1.0.0",
+  "description": "Scraper that extracts public profile data from LinkedIn search results",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "apify": "^3.0.0",
+    "puppeteer": "^21.0.0"
+  }
+}
